@@ -1,7 +1,7 @@
 Deepness OSX Theme 1.0
 ======================
 
-![alt text](https://github.com/julien-rodrigues/deepness-osx-theme/theme-preview.png "Theme Preview")
+![alt text](https://github.com/julien-rodrigues/deepness-osx-theme/blob/master/theme-preview.png "Theme Preview")
 
 "Theme" (more like a process) for OSX Mavericks. Contains a full process description, graphics and Geeklets. The main style for the app icons is iOS but you will find icons from OSX Yosemite turned into iOS7 icons.
 This theme was designed for Mavericks. I didn't make any test on older versions of OSX.
