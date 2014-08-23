@@ -7,6 +7,9 @@ Deepness OSX Theme 1.0
 This theme was designed for Mavericks. I didn't make any test on older versions of OSX.
 If your are a user of OSX Yosemite, most of the things here will not work.
 
+**DISCLAIMER - USE AT YOUR OWN RISK**
+I recommend to make a backup before using this.
+
 ####Changelog:
 * _Currently developing_ | [Bowtie](http://bowtieapp.com/) theme <3
 * _2014-08-23_ | **1.0** - Initial commit; Contains the full initial package.
