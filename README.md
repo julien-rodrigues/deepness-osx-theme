@@ -35,7 +35,7 @@ You will find a `.md` file for every steps in the `instructions` folder of the p
 4. Icons
 5. Geeklets
 
-Aditional credits
+Additional credits
 -----------------
 I used several resources that I found on the Internet.
 
